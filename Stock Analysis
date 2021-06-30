@@ -1,0 +1,5 @@
+The data was downloaded from Yahoo Finance using the yahoo_finance Python package.
+
+The detailed procedure can be accessed through:
+
+https://pypi.org/project/yahoo-finance/
